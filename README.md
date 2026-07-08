@@ -4,7 +4,7 @@ A small, runnable experiment on the enterprise RAG question that gates real deal
 
 This is not a new idea, and I am not claiming it is. Enforcing permissions at retrieval, before documents ever reach the model, is established best practice: Microsoft calls it security trimming, and AWS, Google, Glean, Pinecone, and Elastic all ship pre-retrieval access-control filtering. What I wanted was to see the failure and the fix with my own eyes, and to measure them honestly. So I built a minimal but complete RAG pipeline, three access-control designs, a synthetic company, and a way to measure not just what leaks but what was ever exposed. This repo is that experiment and its results.
 
-## Why this matters (it is a real blocker, not a toy problem)
+## Why this matters
 
 Data oversharing is a documented reason enterprise AI stalls, not a hypothetical:
 
