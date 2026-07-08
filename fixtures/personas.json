@@ -1,0 +1,46 @@
+[
+  {
+    "id": "emp_ic",
+    "role": "IC Engineer",
+    "team": "Platform",
+    "is_manager": false
+  },
+  {
+    "id": "mgr",
+    "role": "Engineering Manager",
+    "team": "Platform",
+    "is_manager": true
+  },
+  {
+    "id": "sales_ic",
+    "role": "Sales Representative",
+    "team": "Sales",
+    "is_manager": false
+  },
+  {
+    "id": "sales_mgr",
+    "role": "Sales Manager",
+    "team": "Sales",
+    "is_manager": true
+  },
+  {
+    "id": "hr_partner",
+    "role": "HR Business Partner"
+  },
+  {
+    "id": "finance_analyst",
+    "role": "Finance Analyst"
+  },
+  {
+    "id": "general_counsel",
+    "role": "General Counsel"
+  },
+  {
+    "id": "exec_cfo",
+    "role": "CFO"
+  },
+  {
+    "id": "contractor",
+    "role": "External Contractor"
+  }
+]

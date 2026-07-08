@@ -1,0 +1,6 @@
+# Core harness is pure standard library (Python 3.10+); nothing required for the mock run.
+# Install only the SDK for the provider you use:
+#   Gemini (free tier):   pip install google-genai
+#   Anthropic:            pip install anthropic
+google-genai>=2.0
+# anthropic>=0.40

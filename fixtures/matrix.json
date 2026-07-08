@@ -1,0 +1,41 @@
+{
+  "team_performance": {
+    "mgr": true,
+    "sales_mgr": true,
+    "hr_partner": true,
+    "exec_cfo": true
+  },
+  "comp_bands": {
+    "mgr": true,
+    "sales_mgr": true,
+    "hr_partner": true,
+    "finance_analyst": true,
+    "exec_cfo": true
+  },
+  "financial_report": {
+    "finance_analyst": true,
+    "exec_cfo": true
+  },
+  "budget": {
+    "finance_analyst": true,
+    "exec_cfo": true
+  },
+  "customer_pii": {
+    "exec_cfo": true
+  },
+  "employee_pii": {
+    "hr_partner": true,
+    "exec_cfo": true
+  },
+  "legal_privileged": {
+    "general_counsel": true
+  },
+  "exec_only": {
+    "exec_cfo": true
+  },
+  "source_code": {
+    "exec_cfo": true
+  },
+  "board_mna": {},
+  "team_doc": {}
+}
